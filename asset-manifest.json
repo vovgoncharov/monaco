@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/monaco-react/static/css/main.18acad1f.css",
+    "main.js": "/monaco-react/static/js/main.ee37f2e3.js",
+    "static/media/hero_bg_1.jpg": "/monaco-react/static/media/hero_bg_1.4fd7d49bb78df7dbe438.jpg",
+    "static/media/salon.jpg": "/monaco-react/static/media/salon.ad4f2c61146da7acd605.jpg",
+    "static/media/photo_2.jpg": "/monaco-react/static/media/photo_2.d5345e37e240b379d305.jpg",
+    "static/media/photo_4.jpg": "/monaco-react/static/media/photo_4.1186aac7b4173ac8f799.jpg",
+    "static/media/photo_1.jpg": "/monaco-react/static/media/photo_1.9c2f7c495e6c36a5d980.jpg",
+    "static/media/photo_3.jpg": "/monaco-react/static/media/photo_3.dcb854789441d8ccc32b.jpg",
+    "static/media/photo_6.jpg": "/monaco-react/static/media/photo_6.12d8100c33b6e1782ec3.jpg",
+    "static/media/photo_5.jpg": "/monaco-react/static/media/photo_5.6c08ebe5a80bbda93960.jpg",
+    "static/media/photo_7.jpg": "/monaco-react/static/media/photo_7.2ffb4102437744292612.jpg",
+    "static/media/team2.jpg": "/monaco-react/static/media/team2.f1105514cd0bd924dac4.jpg",
+    "static/media/team3.jpg": "/monaco-react/static/media/team3.5c1f74103c14e7a6d5f6.jpg",
+    "static/media/team1.jpg": "/monaco-react/static/media/team1.a47adb3a5c5058620a11.jpg",
+    "static/media/scissor-and-comb.png": "/monaco-react/static/media/scissor-and-comb.4e601f435ea448de8784.png",
+    "static/media/nail-polish.png": "/monaco-react/static/media/nail-polish.acc7e1a1956645a3d2cb.png",
+    "static/media/eyelash-mascara.png": "/monaco-react/static/media/eyelash-mascara.23002dc6bbd392fe4996.png",
+    "static/media/lipstick.png": "/monaco-react/static/media/lipstick.2511fec2bdb916fda78f.png",
+    "static/media/eyebrow.png": "/monaco-react/static/media/eyebrow.4ece64d8bae587daf9d1.png",
+    "static/media/massage.png": "/monaco-react/static/media/massage.a134bb6ae647ea2e3f0b.png",
+    "index.html": "/monaco-react/index.html",
+    "main.18acad1f.css.map": "/monaco-react/static/css/main.18acad1f.css.map",
+    "main.ee37f2e3.js.map": "/monaco-react/static/js/main.ee37f2e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18acad1f.css",
+    "static/js/main.ee37f2e3.js"
+  ]
+}
