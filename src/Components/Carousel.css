@@ -1,0 +1,17 @@
+.main-container {
+  margin: 0 auto;
+  width: 450px;
+  border: 2px solid rgb(30, 255, 0);
+}
+
+.window {
+  width: 100%;
+  border: 2px solid red;
+  overflow: hidden;
+}
+
+.all-pages {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=Carousel.css.map */

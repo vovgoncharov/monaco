@@ -1,0 +1,131 @@
+@import "color";
+
+@media screen and (max-width: 1024px) {
+
+    //About
+    .about__wrap {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .icon {
+            max-width: 90%;
+            padding: 30px;
+        }
+
+
+
+    }
+
+
+
+    //Service
+    .service {
+        .our__service {
+            .our__service-top {
+                padding: 40px 15%;
+
+                .haircut {
+                    width: 100%;
+                    margin: 5%;
+                }
+            }
+
+        }
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .team__slider {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    section.master .team .item {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+
+
+    .header {
+
+        .top_nav {
+            display: flex;
+            align-items: flex-start;
+
+            .menu {
+                .laptop__nav {
+                    display: none;
+                }
+
+                .laptop__nav-block {
+                    display: block;
+                    padding: 5px;
+                    background-color: #fff;
+                    box-shadow: 0px 0px 1px 0.1px #000;
+                    transition: 3s;
+
+                    .nav-item {
+                        margin: 10px;
+                        transition: 0.5s;
+                    }
+                }
+            }
+
+            .line {
+                display: block;
+            }
+
+            .social {
+                .social-item {
+                    padding: 0 5px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 690px) {
+
+
+    .footer {
+        .footer_contact {
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+            nav.menu_footer {
+                padding-top: 40px;
+
+                li {
+                    a {
+                        padding: 50px;
+                    }
+                }
+            }
+        }
+    }
+
+    .about .about_right .title-about {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .own-title {
+        font-size: 30px;
+    }
+
+    .service {
+        .our__service {
+            .our__service-top {
+                padding: 20px 10%;
+
+            }
+
+        }
+    }
+}
