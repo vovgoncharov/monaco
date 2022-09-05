@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/monaco-react/static/css/main.18acad1f.css",
-    "main.js": "/monaco-react/static/js/main.ee37f2e3.js",
+    "main.js": "/monaco-react/static/js/main.d44d075d.js",
     "static/media/hero_bg_1.jpg": "/monaco-react/static/media/hero_bg_1.4fd7d49bb78df7dbe438.jpg",
-    "static/media/salon.jpg": "/monaco-react/static/media/salon.ad4f2c61146da7acd605.jpg",
+    "static/media/salon.jpg": "/monaco-react/static/media/salon.09f051747f470a8ea3c0.jpg",
     "static/media/photo_2.jpg": "/monaco-react/static/media/photo_2.d5345e37e240b379d305.jpg",
     "static/media/photo_4.jpg": "/monaco-react/static/media/photo_4.1186aac7b4173ac8f799.jpg",
     "static/media/photo_1.jpg": "/monaco-react/static/media/photo_1.9c2f7c495e6c36a5d980.jpg",
@@ -22,10 +22,10 @@
     "static/media/massage.png": "/monaco-react/static/media/massage.a134bb6ae647ea2e3f0b.png",
     "index.html": "/monaco-react/index.html",
     "main.18acad1f.css.map": "/monaco-react/static/css/main.18acad1f.css.map",
-    "main.ee37f2e3.js.map": "/monaco-react/static/js/main.ee37f2e3.js.map"
+    "main.d44d075d.js.map": "/monaco-react/static/js/main.d44d075d.js.map"
   },
   "entrypoints": [
     "static/css/main.18acad1f.css",
-    "static/js/main.ee37f2e3.js"
+    "static/js/main.d44d075d.js"
   ]
 }
