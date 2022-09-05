@@ -20,7 +20,7 @@ const masters = [
   {
     id: 3,
     image: team3,
-    name: "Вікторія Гулець",
+    name: "Оксана Масляк",
     position: "Майстер вій",
     phone: "+38(068)-900-90-89",
   },
